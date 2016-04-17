@@ -1,0 +1,12 @@
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\OnlineStore.Data.dll.config
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\OnlineStore.Data.dll
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\OnlineStore.Data.pdb
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\EntityFramework.dll
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\OnlineStore.Models.dll
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\OnlineStore.Models.pdb
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\EntityFramework.xml
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\OnlineStore.Data.csprojResolveAssemblyReference.cache
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\OnlineStore.Data.dll
+D:\User\Desktop\MVC\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\OnlineStore.Data.pdb
